@@ -1,0 +1,1 @@
+requires 'Data::Section::Simple';
